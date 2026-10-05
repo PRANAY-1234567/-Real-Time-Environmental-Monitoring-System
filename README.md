@@ -143,3 +143,4 @@ The project was presented at **ICASTII-2026** and further documented as a resear
 
 ⭐ **If you find this project useful, feel free to explore the repository and provide feedback.**
 
+<img width="4160" height="3120" alt="WhatsApp Image 2026-10-06 at 2 09 26 AM" src="https://github.com/user-attachments/assets/235e3cc2-6f2b-4583-a0e0-ff14bd5a6a11" />
