@@ -146,3 +146,5 @@ The project was presented at **ICASTII-2026** and further documented as a resear
 <img width="4160" height="3120" alt="WhatsApp Image 2026-10-06 at 2 09 26 AM" src="https://github.com/user-attachments/assets/235e3cc2-6f2b-4583-a0e0-ff14bd5a6a11" />
 
 <img width="1033" height="549" alt="WhatsApp Image 2026-10-06 at 2 08 54 AM" src="https://github.com/user-attachments/assets/6224988e-0dee-4152-86d3-df7719313fd1" />
+
+<img width="3120" height="4160" alt="WhatsApp Image 2026-10-06 at 2 08 54 AM" src="https://github.com/user-attachments/assets/4d316a6c-3a72-47e1-86d9-efa3c391715e" />
